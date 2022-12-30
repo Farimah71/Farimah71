@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Farimah71
+- 👋 Hi, I’m Farimah!
 - 👀 I’m interested in designing and developing the front-end of web applications.
-- 💞️ I’m looking to collaborate on new projects' UI/UX with React.js.
+- 💞️ I’m looking to collaborate on new front-end projects using `React.js`.
 - 📫 How to reach me: farimah.fattahi2000@gmail.com
 
 <!---
