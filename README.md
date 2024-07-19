@@ -6,7 +6,7 @@
 
 <img align="right" width="350" height="250" src="coding-girl.gif">
 
-💻  I'm a <b>Frontend Developer</b>.<br>👯 I’m looking to collaborate on challenging projects.<br>🌱 I’m currently in the process of learning GraphQL and Cypress.<br>⚡ Frontend is my passion!
+💻  I'm a <b>Frontend Developer</b>.<br>👯 I’m looking to collaborate on challenging projects.<br>🌱 I’m currently in the process of learning Storybook.<br>⚡ Frontend is my passion!
 
 
 # 💻 Tech Stack:
